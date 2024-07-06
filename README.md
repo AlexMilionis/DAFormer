@@ -1,5 +1,5 @@
 # Description
-Overview\n
+Overview<br/>
 This project aims to reproduce the results presented in the paper "DAFormer: Improving Network Architectures and Training Strategies for Domain-Adaptive Semantic Segmentation" by Lukas Hoyer, Dengxin Dai, and Luc Van Gool. The paper introduces a novel unsupervised domain adaptation (UDA) method for semantic segmentation using a Transformer-based network architecture named DAFormer.
 
 Paper Details
